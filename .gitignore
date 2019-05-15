@@ -3,3 +3,5 @@ node_modules
 dist
 app/bower_components
 package
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite

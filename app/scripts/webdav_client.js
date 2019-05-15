@@ -351,7 +351,7 @@
             console.log(status);
             if (onError) {
                 if (status === 404) {
-                   onError("NOT_FOUND");
+                    onError("NOT_FOUND");
                 } else {
                     onError("FAILED");
                 }
@@ -489,7 +489,7 @@
         for (var i = 0; i < split.length; i++) {
             result.push(encodeURIComponent(split[i]));
         }
-        return (path.charAt(0) == '/' ? "" : "/") + result.join("/");
+        return (path.charAt(0) === '/' ? "" : "/") + result.join("/");
     };
 
     // Export

@@ -127,6 +127,7 @@
         console.log(options);
         var filePath = getOpenedFiles.call(this, options.fileSystemId)[options.openRequestId];
         var webDavClient = getWebDavClient.call(this, options.fileSystemId);
+        var metadataCache = getMetadataCache.call(this, options.fileSystemId);
         var cache = metadataCache.get(filePath);
         var read_len = options.length;
         if (cache.directoryExists && cache.fileExists) {

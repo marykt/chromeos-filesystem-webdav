@@ -9,6 +9,7 @@ WebDAV File System provides you an ability to access to your WebDAV storage dire
 </a>
 
 <img src="https://raw.githubusercontent.com/yoichiro/chromeos-filesystem-webdav/master/docs/screenshot.png">
+
 ## In my version
 
 因为原作者长时间没有更新,而且我并不精通javascript.我尽量让这个项目能够使用。我做了以下更改（相比原版来说）

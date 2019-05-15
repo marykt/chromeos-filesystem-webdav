@@ -9,6 +9,17 @@ WebDAV File System provides you an ability to access to your WebDAV storage dire
 </a>
 
 <img src="https://raw.githubusercontent.com/yoichiro/chromeos-filesystem-webdav/master/docs/screenshot.png">
+## In my version
+
+因为原作者长时间没有更新,而且我并不精通javascript.所以我尽量让这个项目能够使用。所以我做了一下更改（相比原版来说）
+1.我编译使用的nodejs版本为（做了一些让编译通过的工作）
+2.目前版本只能使用账号密码登录的方式（坚果云（https://www.jianguoyun.com）测试通过）
+
+Because the original author has not updated for a long time, And I'm not proficient in javascript.so I try to make this project available. So I made a change (compared with the original version)
+
+1. The version of nodejs that I used to compile is (I dose some work for compilation to pass)
+
+2. Current versions can only use password login （(https://www.jianguoyun.com) test passed)
 
 ## How to build
 

@@ -25,13 +25,13 @@ Because the original author has not updated for a long time, And I'm not profici
 download 👇
 https://github.com/marykt/chromeos-filesystem-webdav/releases/download/1.0.6b/chromeos-filesystem-webdav-1.0.6b.zip
 
-open your chrome book
-open chrome
-open plugin manager
-open open develop mode
-unzip file
-select file floder to load this plugin
-have fun
+1. open your chrome book
+2. open chrome
+3. open plugin manager
+4. open open develop mode
+5. unzip file
+6. select file floder to load this plugin
+7. have fun
 
 ## How to build
 

@@ -21,6 +21,11 @@ Because the original author has not updated for a long time, And I'm not profici
 1. The version of nodejs that I used to compile is (I dose some work for compilation to pass)
 
 2. Current versions can only use password login （(https://www.jianguoyun.com) test passed)
+## bug 
+1.server is nextcloud with https self-signed.it could not use(HTTP 503)?
+I'm working for this,you can use http Temporary.it was working fine(I tried).
+
+
 ## How to use
 download 👉
 https://github.com/marykt/chromeos-filesystem-webdav/releases/download/1.0.6b/chromeos-filesystem-webdav-1.0.6b.zip
